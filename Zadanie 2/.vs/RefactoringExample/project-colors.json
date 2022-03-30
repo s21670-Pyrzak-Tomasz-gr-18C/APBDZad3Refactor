@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "72364726-3116-4019-a054-6e9af98bb046": {
+      "ProjectGuid": "72364726-3116-4019-a054-6e9af98bb046",
+      "DisplayName": "LegacyApp",
+      "ColorIndex": 0
+    },
+    "8924c743-b84e-4b77-8944-0e718815e1d0": {
+      "ProjectGuid": "8924c743-b84e-4b77-8944-0e718815e1d0",
+      "DisplayName": "LegacyAppConsumer",
+      "ColorIndex": 1
+    },
+    "07e6438e-2c26-499b-8991-7a032141c1ee": {
+      "ProjectGuid": "07e6438e-2c26-499b-8991-7a032141c1ee",
+      "DisplayName": "LegacyAppTests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

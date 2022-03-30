@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "opYUqdTeGK+etOIjy5s5XlKliCIuOllm+riusrzQN6ikw/tzpUJuNro8COFFqePAJ4gvUABdLmYCTQKyYIotfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tpyrz\\Source\\Repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 1\\XYZExporter\\XYZExporter\\XYZExporter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tpyrz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\tpyrz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

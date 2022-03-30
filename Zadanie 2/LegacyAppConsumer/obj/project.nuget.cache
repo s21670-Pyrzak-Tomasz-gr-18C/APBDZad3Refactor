@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rSOHsY64cE+u0drLOAh1GJ5ykU+dlzp7Mh1Djne5RGvWiv1wIuZ8/U2UYoGdBQ0OTmW6CoTMuSue+3z48J89pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tpyrz\\OneDrive\\Pulpit\\Szkoła\\Semestr VI\\APBD\\2. Ćwiczenia 2\\Zadanie 2\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tpyrz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

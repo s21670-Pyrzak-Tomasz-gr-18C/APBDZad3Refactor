@@ -1,0 +1,12 @@
+C:\Users\Piotr\Downloads\apbd_tutorials\Zadanie 1\LegacyApp\bin\Debug\net5.0\LegacyApp.deps.json
+C:\Users\Piotr\Downloads\apbd_tutorials\Zadanie 1\LegacyApp\bin\Debug\net5.0\LegacyApp.dll
+C:\Users\Piotr\Downloads\apbd_tutorials\Zadanie 1\LegacyApp\bin\Debug\net5.0\ref\LegacyApp.dll
+C:\Users\Piotr\Downloads\apbd_tutorials\Zadanie 1\LegacyApp\bin\Debug\net5.0\LegacyApp.pdb
+C:\Users\Piotr\Downloads\apbd_tutorials\Zadanie 1\LegacyApp\obj\Debug\net5.0\LegacyApp.csproj.AssemblyReference.cache
+C:\Users\Piotr\Downloads\apbd_tutorials\Zadanie 1\LegacyApp\obj\Debug\net5.0\LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr\Downloads\apbd_tutorials\Zadanie 1\LegacyApp\obj\Debug\net5.0\LegacyApp.AssemblyInfoInputs.cache
+C:\Users\Piotr\Downloads\apbd_tutorials\Zadanie 1\LegacyApp\obj\Debug\net5.0\LegacyApp.AssemblyInfo.cs
+C:\Users\Piotr\Downloads\apbd_tutorials\Zadanie 1\LegacyApp\obj\Debug\net5.0\LegacyApp.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Downloads\apbd_tutorials\Zadanie 1\LegacyApp\obj\Debug\net5.0\LegacyApp.dll
+C:\Users\Piotr\Downloads\apbd_tutorials\Zadanie 1\LegacyApp\obj\Debug\net5.0\ref\LegacyApp.dll
+C:\Users\Piotr\Downloads\apbd_tutorials\Zadanie 1\LegacyApp\obj\Debug\net5.0\LegacyApp.pdb

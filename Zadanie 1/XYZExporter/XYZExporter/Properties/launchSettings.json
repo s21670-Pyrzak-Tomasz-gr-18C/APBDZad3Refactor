@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "XYZExporter": {
+      "commandName": "Project",
+      "commandLineArgs": [ "C:\\Users\\48501\\OneDrive\\Documents\\APBD\\Jason", ],
+      "nativeDebugging": true
+    }
+  }
+}
