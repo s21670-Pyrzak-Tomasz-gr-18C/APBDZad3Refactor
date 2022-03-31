@@ -34,3 +34,21 @@ C:\Users\tpyrz\OneDrive\Pulpit\Szkoła\Semestr VI\APBD\2. Ćwiczenia 2\Zadanie 1
 C:\Users\tpyrz\OneDrive\Pulpit\Szkoła\Semestr VI\APBD\2. Ćwiczenia 2\Zadanie 1\XYZExporter\XYZExporter\obj\Debug\net5.0\XYZExporter.pdb
 C:\Users\tpyrz\OneDrive\Pulpit\Szkoła\Semestr VI\APBD\2. Ćwiczenia 2\Zadanie 1\XYZExporter\XYZExporter\obj\Debug\net5.0\XYZExporter.genruntimeconfig.cache
 C:\Users\tpyrz\OneDrive\Pulpit\Szkoła\Semestr VI\APBD\2. Ćwiczenia 2\Zadanie 1\XYZExporter\XYZExporter\obj\Debug\net5.0\ref\XYZExporter.dll
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 1\XYZExporter\XYZExporter\bin\Debug\net5.0\XYZExporter.exe
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 1\XYZExporter\XYZExporter\bin\Debug\net5.0\XYZExporter.deps.json
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 1\XYZExporter\XYZExporter\bin\Debug\net5.0\XYZExporter.runtimeconfig.json
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 1\XYZExporter\XYZExporter\bin\Debug\net5.0\XYZExporter.runtimeconfig.dev.json
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 1\XYZExporter\XYZExporter\bin\Debug\net5.0\XYZExporter.dll
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 1\XYZExporter\XYZExporter\bin\Debug\net5.0\XYZExporter.pdb
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 1\XYZExporter\XYZExporter\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 1\XYZExporter\XYZExporter\obj\Debug\net5.0\XYZExporter.csproj.AssemblyReference.cache
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 1\XYZExporter\XYZExporter\obj\Debug\net5.0\XYZExporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 1\XYZExporter\XYZExporter\obj\Debug\net5.0\XYZExporter.AssemblyInfoInputs.cache
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 1\XYZExporter\XYZExporter\obj\Debug\net5.0\XYZExporter.AssemblyInfo.cs
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 1\XYZExporter\XYZExporter\obj\Debug\net5.0\XYZExporter.csproj.CoreCompileInputs.cache
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 1\XYZExporter\XYZExporter\obj\Debug\net5.0\XYZExporter.csproj.CopyComplete
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 1\XYZExporter\XYZExporter\obj\Debug\net5.0\XYZExporter.dll
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 1\XYZExporter\XYZExporter\obj\Debug\net5.0\refint\XYZExporter.dll
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 1\XYZExporter\XYZExporter\obj\Debug\net5.0\XYZExporter.pdb
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 1\XYZExporter\XYZExporter\obj\Debug\net5.0\XYZExporter.genruntimeconfig.cache
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 1\XYZExporter\XYZExporter\obj\Debug\net5.0\ref\XYZExporter.dll

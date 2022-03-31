@@ -1,0 +1,16 @@
+Student exist{
+  "indexNumber": "s459",
+  "fname": "Paweł",
+  "lname": "Nowak1",
+  "birthdate": "2000-02-12",
+  "email": "1@pjwstk.edu.pl",
+  "mothersName": "Alina",
+  "fathersName": "Adam",
+  "studiesName": "Informatyka dzienne",
+  "studiesMode": "Dzienne"
+}
+One or more columns are empty: Zbigniew,Kowalski35,Sztuka Nowych Mediów dzienne,,4450,2000-02-12,35@pjwstk.edu.pl,Alina,Adam
+One or more columns are empty: Karolina,Nowak36,Sztuka Nowych Mediów dzienne,,4455,2000-02-12,36@pjwstk.edu.pl,Alina,Adam
+One or more columns are empty: Aleksandra,,Sztuka Nowych Mediów dzienne,Dzienne,4434,2000-02-12,42@pjwstk.edu.pl,Alina,Adam
+One or more columns are empty: Jolanta,Nowak96,Sztuka Nowych Mediów uzupełniające magisterskie,Dzienne,4756,2000-02-12,96@pjwstk.edu.pl,,
+One or more columns are empty: Jolanta,Nowak96,Sztuka Nowych Mediów uzupełniające magisterskie,Dzienne,4756,2000-02-12,96@pjwstk.edu.pl,,

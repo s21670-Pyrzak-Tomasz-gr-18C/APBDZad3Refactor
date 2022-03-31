@@ -1,0 +1,8 @@
+C:\Users\tpyrz\OneDrive\Pulpit\APBD\Crawler\bin\Debug\ConsoleApplication.exe.config
+C:\Users\tpyrz\OneDrive\Pulpit\APBD\Crawler\bin\Debug\ConsoleApplication.exe
+C:\Users\tpyrz\OneDrive\Pulpit\APBD\Crawler\bin\Debug\ConsoleApplication.pdb
+C:\Users\tpyrz\OneDrive\Pulpit\APBD\Crawler\obj\x86\Debug\Crawler.csproj.AssemblyReference.cache
+C:\Users\tpyrz\OneDrive\Pulpit\APBD\Crawler\obj\x86\Debug\Crawler.csproj.SuggestedBindingRedirects.cache
+C:\Users\tpyrz\OneDrive\Pulpit\APBD\Crawler\obj\x86\Debug\Crawler.csproj.CoreCompileInputs.cache
+C:\Users\tpyrz\OneDrive\Pulpit\APBD\Crawler\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\tpyrz\OneDrive\Pulpit\APBD\Crawler\obj\x86\Debug\ConsoleApplication.pdb

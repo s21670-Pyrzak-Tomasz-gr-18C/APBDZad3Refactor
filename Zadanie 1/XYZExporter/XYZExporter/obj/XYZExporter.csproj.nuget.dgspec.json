@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tpyrz\\Source\\Repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 1\\XYZExporter\\XYZExporter\\XYZExporter.csproj": {}
+    "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 1\\XYZExporter\\XYZExporter\\XYZExporter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tpyrz\\Source\\Repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 1\\XYZExporter\\XYZExporter\\XYZExporter.csproj": {
+    "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 1\\XYZExporter\\XYZExporter\\XYZExporter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tpyrz\\Source\\Repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 1\\XYZExporter\\XYZExporter\\XYZExporter.csproj",
+        "projectUniqueName": "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 1\\XYZExporter\\XYZExporter\\XYZExporter.csproj",
         "projectName": "XYZExporter",
-        "projectPath": "C:\\Users\\tpyrz\\Source\\Repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 1\\XYZExporter\\XYZExporter\\XYZExporter.csproj",
+        "projectPath": "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 1\\XYZExporter\\XYZExporter\\XYZExporter.csproj",
         "packagesPath": "C:\\Users\\tpyrz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tpyrz\\Source\\Repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 1\\XYZExporter\\XYZExporter\\obj\\",
+        "outputPath": "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 1\\XYZExporter\\XYZExporter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tpyrz\\AppData\\Roaming\\NuGet\\NuGet.Config",

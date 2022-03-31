@@ -1,0 +1,129 @@
+{
+  "uczelnia": {
+    "createdAt": "31.03.2022",
+    "author": "Tomasz Pyrzak",
+    "studenci": [
+      {
+        "indexNumber": "s459",
+        "fname": "Paweł",
+        "lname": "Nowak1",
+        "birthdate": "2000-02-12",
+        "email": "1@pjwstk.edu.pl",
+        "mothersName": "Alina",
+        "fathersName": "Adam",
+        "studiesName": "Informatyka dzienne",
+        "studiesMode": "Dzienne"
+      },
+      {
+        "indexNumber": "s459",
+        "fname": "Paweł",
+        "lname": "Nowak1",
+        "birthdate": "2000-02-12",
+        "email": "1@pjwstk.edu.pl",
+        "mothersName": "Alina",
+        "fathersName": "Adam",
+        "studiesName": "Informatyka magisterskie 4 sem",
+        "studiesMode": "Dzienne"
+      },
+      {
+        "indexNumber": "s459",
+        "fname": "Paweł",
+        "lname": "Nowak1",
+        "birthdate": "2000-02-12",
+        "email": "1@pjwstk.edu.pl",
+        "mothersName": "Alina",
+        "fathersName": "Adam",
+        "studiesName": "Informatyka doktoranckie",
+        "studiesMode": "Dzienne"
+      },
+      {
+        "indexNumber": "s4816",
+        "fname": "Kaja",
+        "lname": "Jankowski29",
+        "birthdate": "2000-02-12",
+        "email": "29@pjwstk.edu.pl",
+        "mothersName": "Alina",
+        "fathersName": "Adam",
+        "studiesName": "Sztuka Nowych Mediów dzienne",
+        "studiesMode": "Dzienne"
+      },
+      {
+        "indexNumber": "s4749",
+        "fname": "Justyna",
+        "lname": "Kowalski30",
+        "birthdate": "2000-02-12",
+        "email": "30@pjwstk.edu.pl",
+        "mothersName": "Alina",
+        "fathersName": "Adam",
+        "studiesName": "Sztuka Nowych Mediów dzienne",
+        "studiesMode": "Dzienne"
+      },
+      {
+        "indexNumber": "s4749",
+        "fname": "Justyna",
+        "lname": "Kowalski30",
+        "birthdate": "2000-02-12",
+        "email": "30@pjwstk.edu.pl",
+        "mothersName": "Alina",
+        "fathersName": "Adam",
+        "studiesName": "Sztuka Nowych Mediów uzupełniające magisterskie",
+        "studiesMode": "Dzienne"
+      },
+      {
+        "indexNumber": "s4432",
+        "fname": "Michał",
+        "lname": "Nowak31",
+        "birthdate": "2000-02-12",
+        "email": "31@pjwstk.edu.pl",
+        "mothersName": "Alina",
+        "fathersName": "Adam",
+        "studiesName": "Sztuka Nowych Mediów dzienne",
+        "studiesMode": "Dzienne"
+      },
+      {
+        "indexNumber": "s4432",
+        "fname": "Michał",
+        "lname": "Nowak31",
+        "birthdate": "2000-02-12",
+        "email": "31@pjwstk.edu.pl",
+        "mothersName": "Alina",
+        "fathersName": "Adam",
+        "studiesName": "Sztuka Nowych Mediów uzupełniające magisterskie",
+        "studiesMode": "Dzienne"
+      },
+      {
+        "indexNumber": "s4757",
+        "fname": "Kamil",
+        "lname": "Brzęczyszczykiewicz32",
+        "birthdate": "2000-02-12",
+        "email": "32@pjwstk.edu.pl",
+        "mothersName": "Alina",
+        "fathersName": "Adam",
+        "studiesName": "Sztuka Nowych Mediów dzienne",
+        "studiesMode": "Dzienne"
+      },
+      {
+        "indexNumber": "s4655",
+        "fname": "Marta",
+        "lname": "Maciejewski33",
+        "birthdate": "2000-02-12",
+        "email": "33@pjwstk.edu.pl",
+        "mothersName": "Alina",
+        "fathersName": "Adam",
+        "studiesName": "Sztuka Nowych Mediów dzienne",
+        "studiesMode": "Dzienne"
+      },
+      {
+        "indexNumber": "s4398",
+        "fname": "Szymon",
+        "lname": "Jankowski34",
+        "birthdate": "2000-02-12",
+        "email": "34@pjwstk.edu.pl",
+        "mothersName": "Alina",
+        "fathersName": "Adam",
+        "studiesName": "Sztuka Nowych Mediów dzienne",
+        "studiesMode": "Dzienne"
+      }
+    ]
+  }
+}

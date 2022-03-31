@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\Zadanie 1",
+    "\\Zadanie 1\\XYZExporter",
+    "\\Zadanie 1\\XYZExporter\\XYZExporter"
   ],
-  "SelectedNode": "\\C:\\Users\\tpyrz\\Source\\Repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C",
+  "SelectedNode": "\\Zadanie 1\\XYZExporter\\XYZExporter\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

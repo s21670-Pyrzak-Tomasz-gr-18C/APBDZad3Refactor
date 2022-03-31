@@ -2,7 +2,12 @@
   "profiles": {
     "XYZExporter": {
       "commandName": "Project",
-      "commandLineArgs": [ "C:\\Users\\48501\\OneDrive\\Documents\\APBD\\Jason", ],
+      "commandLineArgs": "\"..\\..\\..\\Files\\dane.csv\" \"..\\..\\..\\Files\\newdata\" jason",
+      "nativeDebugging": true
+    },
+    "Profil 1": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\tpyrz\\OneDrive\\Pulpit\\APBD\\Jason\\XYZExporter\\XYZExporter\\Files\\dane.csv\" \"C:\\Users\\tpyrz\\OneDrive\\Pulpit\\APBD\\Jason\\XYZExporter\\XYZExporter\\Files\\newdata\" jason",
       "nativeDebugging": true
     }
   }
