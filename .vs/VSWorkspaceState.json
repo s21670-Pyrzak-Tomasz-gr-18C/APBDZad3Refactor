@@ -1,11 +1,5 @@
 {
-  "ExpandedNodes": [
-    "",
-    "\\.github",
-    "\\Zadanie 1",
-    "\\Zadanie 1\\XYZExporter",
-    "\\Zadanie 1\\XYZExporter\\XYZExporter"
-  ],
-  "SelectedNode": "\\Zadanie 1\\XYZExporter\\XYZExporter\\Program.cs",
+  "ExpandedNodes": [],
+  "SelectedNode": "\\Crawler.sln",
   "PreviewInSolutionExplorer": false
 }

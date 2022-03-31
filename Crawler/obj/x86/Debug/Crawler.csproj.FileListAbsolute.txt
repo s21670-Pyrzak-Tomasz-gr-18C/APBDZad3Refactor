@@ -6,3 +6,11 @@ C:\Users\tpyrz\OneDrive\Pulpit\APBD\Crawler\obj\x86\Debug\Crawler.csproj.Suggest
 C:\Users\tpyrz\OneDrive\Pulpit\APBD\Crawler\obj\x86\Debug\Crawler.csproj.CoreCompileInputs.cache
 C:\Users\tpyrz\OneDrive\Pulpit\APBD\Crawler\obj\x86\Debug\ConsoleApplication.exe
 C:\Users\tpyrz\OneDrive\Pulpit\APBD\Crawler\obj\x86\Debug\ConsoleApplication.pdb
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Crawler\bin\Debug\ConsoleApplication.exe.config
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Crawler\bin\Debug\ConsoleApplication.exe
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Crawler\bin\Debug\ConsoleApplication.pdb
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Crawler\obj\x86\Debug\Crawler.csproj.AssemblyReference.cache
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Crawler\obj\x86\Debug\Crawler.csproj.SuggestedBindingRedirects.cache
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Crawler\obj\x86\Debug\Crawler.csproj.CoreCompileInputs.cache
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Crawler\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Crawler\obj\x86\Debug\ConsoleApplication.pdb
