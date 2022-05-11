@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YgboxjYjNwqzoOo94QLhg+/wRHFS9UzAqCFqkOf/p9M2RELUzGy6mhtVOMuz/rZNKLlkL78oCJnN/dfr9zaQpw==",
+  "dgSpecHash": "7+3kMep67UwLePLiJ+Jjeo2oXVjnIF8LdRYrnS+cYvLj1V/UZ6ipmP0sdOwxGohDBclJAK7zjD36dhz3zHIC+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tpyrz\\OneDrive\\Pulpit\\Szkoła\\Semestr VI\\APBD\\2. Ćwiczenia 2\\Zadanie 2\\LegacyAppTests\\LegacyAppTests.csproj",
+  "projectFilePath": "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 2\\LegacyAppTests\\LegacyAppTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tpyrz\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\tpyrz\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

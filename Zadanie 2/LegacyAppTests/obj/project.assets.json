@@ -5938,11 +5938,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tpyrz\\OneDrive\\Pulpit\\Szkoła\\Semestr VI\\APBD\\2. Ćwiczenia 2\\Zadanie 2\\LegacyAppTests\\LegacyAppTests.csproj",
+      "projectUniqueName": "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 2\\LegacyAppTests\\LegacyAppTests.csproj",
       "projectName": "LegacyAppTests",
-      "projectPath": "C:\\Users\\tpyrz\\OneDrive\\Pulpit\\Szkoła\\Semestr VI\\APBD\\2. Ćwiczenia 2\\Zadanie 2\\LegacyAppTests\\LegacyAppTests.csproj",
+      "projectPath": "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 2\\LegacyAppTests\\LegacyAppTests.csproj",
       "packagesPath": "C:\\Users\\tpyrz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tpyrz\\OneDrive\\Pulpit\\Szkoła\\Semestr VI\\APBD\\2. Ćwiczenia 2\\Zadanie 2\\LegacyAppTests\\obj\\",
+      "outputPath": "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 2\\LegacyAppTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tpyrz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5959,8 +5959,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\tpyrz\\OneDrive\\Pulpit\\Szkoła\\Semestr VI\\APBD\\2. Ćwiczenia 2\\Zadanie 2\\LegacyApp\\LegacyApp.csproj": {
-              "projectPath": "C:\\Users\\tpyrz\\OneDrive\\Pulpit\\Szkoła\\Semestr VI\\APBD\\2. Ćwiczenia 2\\Zadanie 2\\LegacyApp\\LegacyApp.csproj"
+            "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 2\\LegacyApp\\LegacyApp.csproj": {
+              "projectPath": "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 2\\LegacyApp\\LegacyApp.csproj"
             }
           }
         }
@@ -6011,7 +6011,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

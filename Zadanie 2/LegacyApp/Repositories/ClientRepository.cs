@@ -1,12 +1,14 @@
-﻿namespace LegacyApp
+﻿using LegacyApp.Models;
+
+namespace LegacyApp.Repositories
 {
-    public class ClientRepository
+    public class ClientRepository : IClienRepository
     {
         public ClientRepository()
         {
-        }
+        } 
 
-        internal Client GetById(int clientId)
+        public Client GetById(int clientId)
         {
             //Fetching the data...
             return new Client

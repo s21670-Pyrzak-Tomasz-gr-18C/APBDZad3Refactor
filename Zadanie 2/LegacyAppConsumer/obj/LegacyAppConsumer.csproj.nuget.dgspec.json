@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tpyrz\\OneDrive\\Pulpit\\Szkoła\\Semestr VI\\APBD\\2. Ćwiczenia 2\\Zadanie 2\\LegacyAppConsumer\\LegacyAppConsumer.csproj": {}
+    "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 2\\LegacyAppConsumer\\LegacyAppConsumer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tpyrz\\OneDrive\\Pulpit\\Szkoła\\Semestr VI\\APBD\\2. Ćwiczenia 2\\Zadanie 2\\LegacyAppConsumer\\LegacyAppConsumer.csproj": {
+    "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 2\\LegacyAppConsumer\\LegacyAppConsumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tpyrz\\OneDrive\\Pulpit\\Szkoła\\Semestr VI\\APBD\\2. Ćwiczenia 2\\Zadanie 2\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
+        "projectUniqueName": "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 2\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
         "projectName": "LegacyAppConsumer",
-        "projectPath": "C:\\Users\\tpyrz\\OneDrive\\Pulpit\\Szkoła\\Semestr VI\\APBD\\2. Ćwiczenia 2\\Zadanie 2\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
+        "projectPath": "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 2\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
         "packagesPath": "C:\\Users\\tpyrz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tpyrz\\OneDrive\\Pulpit\\Szkoła\\Semestr VI\\APBD\\2. Ćwiczenia 2\\Zadanie 2\\LegacyAppConsumer\\obj\\",
+        "outputPath": "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 2\\LegacyAppConsumer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tpyrz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\tpyrz\\OneDrive\\Pulpit\\Szkoła\\Semestr VI\\APBD\\2. Ćwiczenia 2\\Zadanie 2\\LegacyApp\\LegacyApp.csproj": {
-                "projectPath": "C:\\Users\\tpyrz\\OneDrive\\Pulpit\\Szkoła\\Semestr VI\\APBD\\2. Ćwiczenia 2\\Zadanie 2\\LegacyApp\\LegacyApp.csproj"
+              "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 2\\LegacyApp\\LegacyApp.csproj": {
+                "projectPath": "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 2\\LegacyApp\\LegacyApp.csproj"
               }
             }
           }
@@ -53,29 +53,23 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.15, 5.0.15]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tpyrz\\OneDrive\\Pulpit\\Szkoła\\Semestr VI\\APBD\\2. Ćwiczenia 2\\Zadanie 2\\LegacyApp\\LegacyApp.csproj": {
+    "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 2\\LegacyApp\\LegacyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tpyrz\\OneDrive\\Pulpit\\Szkoła\\Semestr VI\\APBD\\2. Ćwiczenia 2\\Zadanie 2\\LegacyApp\\LegacyApp.csproj",
+        "projectUniqueName": "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 2\\LegacyApp\\LegacyApp.csproj",
         "projectName": "LegacyApp",
-        "projectPath": "C:\\Users\\tpyrz\\OneDrive\\Pulpit\\Szkoła\\Semestr VI\\APBD\\2. Ćwiczenia 2\\Zadanie 2\\LegacyApp\\LegacyApp.csproj",
+        "projectPath": "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 2\\LegacyApp\\LegacyApp.csproj",
         "packagesPath": "C:\\Users\\tpyrz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tpyrz\\OneDrive\\Pulpit\\Szkoła\\Semestr VI\\APBD\\2. Ćwiczenia 2\\Zadanie 2\\LegacyApp\\obj\\",
+        "outputPath": "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 2\\LegacyApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tpyrz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -118,7 +112,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

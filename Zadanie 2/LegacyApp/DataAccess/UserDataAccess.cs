@@ -1,6 +1,7 @@
-﻿using System;
+﻿using LegacyApp.Models;
+using System;
 
-namespace LegacyApp
+namespace LegacyApp.DataAccess
 {
     /*
      * DO NOT CHANGE THIS FILE AT ALL

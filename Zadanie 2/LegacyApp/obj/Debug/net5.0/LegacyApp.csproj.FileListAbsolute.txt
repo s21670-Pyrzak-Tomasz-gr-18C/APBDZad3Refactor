@@ -10,3 +10,15 @@ C:\Users\Piotr\Downloads\apbd_tutorials\Zadanie 1\LegacyApp\obj\Debug\net5.0\Leg
 C:\Users\Piotr\Downloads\apbd_tutorials\Zadanie 1\LegacyApp\obj\Debug\net5.0\LegacyApp.dll
 C:\Users\Piotr\Downloads\apbd_tutorials\Zadanie 1\LegacyApp\obj\Debug\net5.0\ref\LegacyApp.dll
 C:\Users\Piotr\Downloads\apbd_tutorials\Zadanie 1\LegacyApp\obj\Debug\net5.0\LegacyApp.pdb
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 2\LegacyApp\bin\Debug\net5.0\LegacyApp.deps.json
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 2\LegacyApp\bin\Debug\net5.0\LegacyApp.dll
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 2\LegacyApp\bin\Debug\net5.0\LegacyApp.pdb
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 2\LegacyApp\obj\Debug\net5.0\LegacyApp.csproj.AssemblyReference.cache
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 2\LegacyApp\obj\Debug\net5.0\LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 2\LegacyApp\obj\Debug\net5.0\LegacyApp.AssemblyInfoInputs.cache
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 2\LegacyApp\obj\Debug\net5.0\LegacyApp.AssemblyInfo.cs
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 2\LegacyApp\obj\Debug\net5.0\LegacyApp.csproj.CoreCompileInputs.cache
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 2\LegacyApp\obj\Debug\net5.0\LegacyApp.dll
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 2\LegacyApp\obj\Debug\net5.0\refint\LegacyApp.dll
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 2\LegacyApp\obj\Debug\net5.0\LegacyApp.pdb
+C:\Users\tpyrz\source\repos\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\Zadanie 2\LegacyApp\obj\Debug\net5.0\ref\LegacyApp.dll

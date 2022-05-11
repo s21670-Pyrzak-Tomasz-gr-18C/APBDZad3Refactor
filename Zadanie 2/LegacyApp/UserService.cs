@@ -1,9 +1,30 @@
 ﻿using System;
+using LegacyApp.DataAccess;
+using LegacyApp.Models;
+using LegacyApp.Repositories;
+using LegacyApp.Services;
 
 namespace LegacyApp
 {
     public class UserService
     {
+        private readonly IClienRepository _clientRepository;
+        private readonly IUserCreditService _userCreditService;
+        private readonly ICurrentTimeService _currentTimeService;
+        private readonly IUserDataAccess _userDataAccess;
+
+        public UserService(IClienRepository clientRepository, IUserCreditService userCreditService, ICurrentTimeService currentTimeService, IUserDataAccess userDataAccess)
+        {
+            _clientRepository = clientRepository;
+            _userCreditService = userCreditService;
+            _currentTimeService = currentTimeService;
+            _userDataAccess = userDataAccess;
+        }
+
+        public UserService()
+         :this(new ClientRepository(), new UserCreditService(), new CurrentTimeService(), new UserDataAccessProxy()) 
+        {
+        }
         public bool AddUser(string firstName, string lastName, string email, DateTime dateOfBirth, int clientId)
         {
             if (string.IsNullOrEmpty(firstName) || string.IsNullOrEmpty(lastName))
@@ -16,7 +37,7 @@ namespace LegacyApp
                 return false;
             }
 
-            var now = DateTime.Now;
+            var now = _currentTimeService.GetCurrentDateTme();
             int age = now.Year - dateOfBirth.Year;
             if (now.Month < dateOfBirth.Month || (now.Month == dateOfBirth.Month && now.Day < dateOfBirth.Day)) age--;
 
@@ -25,8 +46,7 @@ namespace LegacyApp
                 return false;
             }
 
-            var clientRepository = new ClientRepository();
-            var client = clientRepository.GetById(clientId);
+            var client = _clientRepository.GetById(clientId);
 
             var user = new User
             {
@@ -37,37 +57,30 @@ namespace LegacyApp
                 LastName = lastName
             };
 
-            if (client.Name == "VeryImportantClient")
+             if (client.Name == "VeryImportantClient")
             {
                 //Skip credit limit
                 user.HasCreditLimit = false;
             }
             else if (client.Name == "ImportantClient")
             {
-                using (var userCreditService = new UserCreditService())
-                {
-                    int creditLimit = userCreditService.GetCreditLimit(user.FirstName, user.LastName, user.DateOfBirth);
-                    creditLimit = creditLimit * 2;
-                    user.CreditLimit = creditLimit;
-                }
+                int creditLimit = _userCreditService.GetCreditLimit(user.FirstName, user.LastName, user.DateOfBirth);
+                creditLimit = creditLimit * 2;
+                user.CreditLimit = creditLimit;    
             }
             else
             {
                 //Do credit check
                 user.HasCreditLimit = true;
-                using (var userCreditService = new UserCreditService())
-                {
-                    int creditLimit = userCreditService.GetCreditLimit(user.FirstName, user.LastName, user.DateOfBirth);
-                    user.CreditLimit = creditLimit;
-                }
+                int creditLimit = _userCreditService.GetCreditLimit(user.FirstName, user.LastName, user.DateOfBirth);
+                user.CreditLimit = creditLimit;   
             }
 
             if (user.HasCreditLimit && user.CreditLimit < 500)
             {
                 return false;
             }
-
-            UserDataAccess.AddUser(user);
+            _userDataAccess.AddUser(user);
             return true;
         }
     }
