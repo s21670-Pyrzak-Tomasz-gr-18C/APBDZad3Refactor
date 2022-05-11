@@ -1,50 +1,36 @@
 ﻿using System;
 using LegacyApp.DataAccess;
 using LegacyApp.Models;
+using LegacyApp.Providers;
 using LegacyApp.Repositories;
 using LegacyApp.Services;
+using LegacyApp.Validators;
 
 namespace LegacyApp
 {
     public class UserService
     {
         private readonly IClienRepository _clientRepository;
-        private readonly IUserCreditService _userCreditService;
-        private readonly ICurrentTimeService _currentTimeService;
         private readonly IUserDataAccess _userDataAccess;
+        private readonly UserValidator _userValidator;
+        private readonly CreditLimitProviderFactory _creditLimitProviderFactory;
 
-        public UserService(IClienRepository clientRepository, IUserCreditService userCreditService, ICurrentTimeService currentTimeService, IUserDataAccess userDataAccess)
+        public UserService(IClienRepository clientRepository, IUserDataAccess userDataAccess,UserValidator userValidator, CreditLimitProviderFactory creditLimitProviderFactory)
         {
             _clientRepository = clientRepository;
-            _userCreditService = userCreditService;
-            _currentTimeService = currentTimeService;
             _userDataAccess = userDataAccess;
+            _userValidator = userValidator;
+            _creditLimitProviderFactory = creditLimitProviderFactory;
         }
 
         public UserService()
-         :this(new ClientRepository(), new UserCreditService(), new CurrentTimeService(), new UserDataAccessProxy()) 
+         :this(new ClientRepository(), new UserDataAccessProxy(), new UserValidator(new CurrentTimeService()),
+              new CreditLimitProviderFactory(new UserCreditService())) 
         {
         }
         public bool AddUser(string firstName, string lastName, string email, DateTime dateOfBirth, int clientId)
         {
-            if (string.IsNullOrEmpty(firstName) || string.IsNullOrEmpty(lastName))
-            {
-                return false;
-            }
-
-            if (!email.Contains("@") && !email.Contains("."))
-            {
-                return false;
-            }
-
-            var now = _currentTimeService.GetCurrentDateTme();
-            int age = now.Year - dateOfBirth.Year;
-            if (now.Month < dateOfBirth.Month || (now.Month == dateOfBirth.Month && now.Day < dateOfBirth.Day)) age--;
-
-            if (age < 21)
-            {
-                return false;
-            }
+            if (!ValidateParameters(firstName, lastName, email, dateOfBirth)) return false;
 
             var client = _clientRepository.GetById(clientId);
 
@@ -57,31 +43,28 @@ namespace LegacyApp
                 LastName = lastName
             };
 
-             if (client.Name == "VeryImportantClient")
-            {
-                //Skip credit limit
-                user.HasCreditLimit = false;
-            }
-            else if (client.Name == "ImportantClient")
-            {
-                int creditLimit = _userCreditService.GetCreditLimit(user.FirstName, user.LastName, user.DateOfBirth);
-                creditLimit = creditLimit * 2;
-                user.CreditLimit = creditLimit;    
-            }
-            else
-            {
-                //Do credit check
-                user.HasCreditLimit = true;
-                int creditLimit = _userCreditService.GetCreditLimit(user.FirstName, user.LastName, user.DateOfBirth);
-                user.CreditLimit = creditLimit;   
-            }
+            var provider = _creditLimitProviderFactory.GetProviderByClientName(client.Name);
+            var (hasCreditLimit, creditLimit) = provider.GetCreditLimit(user);
+            user.HasCreditLimit = hasCreditLimit;
+            user.CreditLimit = creditLimit;
 
-            if (user.HasCreditLimit && user.CreditLimit < 500)
+            if (_userValidator.HasCreditLimitBelow500(user))
             {
                 return false;
             }
             _userDataAccess.AddUser(user);
             return true;
+        }
+
+        private bool ValidateParameters(string firstName, string lastName, string email, DateTime dateOfBirth)
+        {
+            if (!_userValidator.HasValidFullName(firstName, lastName))
+            {
+                return false;
+            }
+
+            return _userValidator.HasValidEmail(email) && _userValidator.HasAtLeast21Years(dateOfBirth);
+          
         }
     }
 }
