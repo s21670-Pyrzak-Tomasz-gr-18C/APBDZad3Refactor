@@ -18,8 +18,7 @@ namespace Crawler
 
             if (!(Uri.IsWellFormedUriString(websiteUrl, UriKind.Absolute)))
                 throw new ArgumentException("Niepoprawny URL");
-
-
+            
             HttpClient httpClient = new HttpClient();
 
             try
