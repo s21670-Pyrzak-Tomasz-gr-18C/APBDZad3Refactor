@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tpyrz\\Source\\Repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 1\\XYZExporter\\XYZExporter\\XYZExporter.csproj",
+      "projectUniqueName": "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 1\\XYZExporter\\XYZExporter\\XYZExporter.csproj",
       "projectName": "XYZExporter",
-      "projectPath": "C:\\Users\\tpyrz\\Source\\Repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 1\\XYZExporter\\XYZExporter\\XYZExporter.csproj",
+      "projectPath": "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 1\\XYZExporter\\XYZExporter\\XYZExporter.csproj",
       "packagesPath": "C:\\Users\\tpyrz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tpyrz\\Source\\Repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 1\\XYZExporter\\XYZExporter\\obj\\",
+      "outputPath": "C:\\Users\\tpyrz\\source\\repos\\cwiczenia2_mp-s21670-Pyrzak-Tomasz-gr-18C\\Zadanie 1\\XYZExporter\\XYZExporter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tpyrz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,18 +101,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.15, 5.0.15]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
